@@ -10,7 +10,6 @@
  * @plus: flag for the '+' character
  * @space: flag for the ' ' character
  * @hash: flag for the '#' character
- * Yassine
  */
 typedef struct flags
 {
